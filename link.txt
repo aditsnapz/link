@@ -6,3 +6,4 @@ https://www.linode.com/docs/security/ssl/ssl-apache2-centos/
 https://www.rosehosting.com/blog/how-to-install-git-on-centos-7/
 https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair
 https://www.tecmint.com/install-sublime-text-editor-in-linux/
+https://stackoverflow.com/questions/20710569/codeigniter-url-rewriting-htaccess-is-not-working-on-centos
