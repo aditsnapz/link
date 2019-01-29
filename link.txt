@@ -1,0 +1,8 @@
+https://musaamin.web.id/cara-install-php-7-di-centos-7/
+https://hoststud.com/resources/how-to-start-stop-or-restart-apache-server-on-centos-linux-server.191/
+https://www.rosehosting.com/blog/how-to-install-mariadb-on-centos-7/
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-with-apache-on-a-centos-7-server
+https://www.linode.com/docs/security/ssl/ssl-apache2-centos/
+https://www.rosehosting.com/blog/how-to-install-git-on-centos-7/
+https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair
+https://www.tecmint.com/install-sublime-text-editor-in-linux/
